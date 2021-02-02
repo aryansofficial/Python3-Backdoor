@@ -17,7 +17,7 @@ help_menu = """
 "upload /path/to/file"    Upload a file to remote machime
 "download /path/to/file"  Download a file from the remote machine
 "screenshot"              Click a screenshot from the remote machine
-"pty [port]"              Spawn a shell session from the remote machine to self on defined port
+"tty [port]"              Spawn a shell session from the remote machine to self on defined port
 "ls"                      List all files
 "cat [file name]"         Cat out contents of the file
 "cd [dir/name]"           Change directory
